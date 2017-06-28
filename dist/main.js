@@ -72,11 +72,25 @@
 
 __webpack_require__(1);
 
+var _test = __webpack_require__(2);
+
+var _test2 = _interopRequireDefault(_test);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
 /***/ }),
 /* 1 */
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
+module.exports = {"test-2":"src-css-main__test-2--3OkU2 src-css-test__test--1nsHh"};
+
+/***/ }),
+/* 2 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+module.exports = {"test":"src-css-test__test--1nsHh"};
 
 /***/ })
 /******/ ]);

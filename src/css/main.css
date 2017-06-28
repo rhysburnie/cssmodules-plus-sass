@@ -2,3 +2,8 @@ body {
   background: #111;
   color: #fafafa;
 }
+
+.test-2 {
+  composes: test from './test.css';
+  background: magenta;
+}
