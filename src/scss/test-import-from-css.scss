@@ -1,1 +1,6 @@
 @import '../css/test-export-to-sass.css';
+
+.compose-from-a-css-file {
+  background: black;
+  composes: test from '../css/test.css';
+}

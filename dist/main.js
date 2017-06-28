@@ -110,6 +110,7 @@ module.exports = {"comp":"src-scss-test__comp--G82bA","whatever":"src-scss-test_
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
+module.exports = {"compose-from-a-css-file":"src-scss-test-import-from-css__compose-from-a-css-file--3ZID3 src-css-test__test--1nsHh"};
 
 /***/ })
 /******/ ]);

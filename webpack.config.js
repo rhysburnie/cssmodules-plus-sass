@@ -1,6 +1,10 @@
 const path = require('path');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
+const PROD = process.env.NODE_ENV && process.env.NODE_ENV === 'production';
+
+const localIdentName = PROD ? '[hash:base64:10]' : '[path][name]__[local]--[hash:base64:5]';
+
 module.exports = {
   entry: './src/main.js',
   output: {
@@ -22,8 +26,8 @@ module.exports = {
             {
               loader: 'css-loader',
               options: {
+                localIdentName,
                 modules: true,
-                localIdentName: '[path][name]__[local]--[hash:base64:5]',
                 importLoaders: 1
               }
             },
@@ -39,8 +43,8 @@ module.exports = {
             {
               loader: 'css-loader',
               options: {
+                localIdentName,
                 modules: true,
-                localIdentName: '[path][name]__[local]--[hash:base64:5]',
                 importLoaders: 2
               }
             },

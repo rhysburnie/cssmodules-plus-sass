@@ -10,6 +10,8 @@
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1; }
+.src-scss-test-export-sass-to-css__from-sass--2mGXn {
+  color: yellow; }
 .src-scss-test__comp--G82bA {
   background: blue; }
 
@@ -49,4 +51,8 @@ body {
 }
 .src-css-test-export-to-sass__from-css--3aNHv {
   color: green; }
-
+.src-css-test__test--1nsHh {
+  color: cyan;
+  outline: cyan; }
+.src-scss-test-import-from-css__compose-from-a-css-file--3ZID3 {
+  background: black; }

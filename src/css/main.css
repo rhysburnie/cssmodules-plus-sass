@@ -1,3 +1,4 @@
+@import 'sass-loader!../scss/test-export-sass-to-css.scss';
 body {
   background: #111;
   color: #fafafa;
