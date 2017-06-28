@@ -8,3 +8,9 @@ body {
   background: magenta;
   display: flex;
 }
+
+/* composes from a scss file */
+.whatever-2 {
+  composes: whatever from 'sass-loader!../scss/test.scss';
+  box-shadow: 0 0 0 black;
+}

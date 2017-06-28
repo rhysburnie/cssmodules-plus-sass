@@ -1,0 +1,10 @@
+$test: red;
+
+.comp {
+  background: blue;
+}
+
+.whatever {
+  color: $test;
+  flex: 1;
+}

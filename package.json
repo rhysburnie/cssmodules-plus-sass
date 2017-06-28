@@ -11,11 +11,15 @@
     "babel-preset-env": "^1.5.2",
     "css-loader": "^0.28.4",
     "extract-text-webpack-plugin": "^2.1.2",
+    "node-sass": "^4.5.3",
     "postcss-loader": "^2.0.6",
     "style-loader": "^0.18.2",
     "webpack": "^3.0.0"
   },
   "scripts": {
     "build": "webpack"
+  },
+  "dependencies": {
+    "sass-loader": "^6.0.6"
   }
 }

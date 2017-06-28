@@ -76,6 +76,10 @@ var _test = __webpack_require__(2);
 
 var _test2 = _interopRequireDefault(_test);
 
+var _test3 = __webpack_require__(3);
+
+var _test4 = _interopRequireDefault(_test3);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
@@ -83,7 +87,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
-module.exports = {"test-2":"src-css-main__test-2--3OkU2 src-css-test__test--1nsHh"};
+module.exports = {"test-2":"src-css-main__test-2--3OkU2 src-css-test__test--1nsHh","whatever-2":"src-css-main__whatever-2---MFTH src-scss-test__whatever--3kjW6"};
 
 /***/ }),
 /* 2 */
@@ -91,6 +95,13 @@ module.exports = {"test-2":"src-css-main__test-2--3OkU2 src-css-test__test--1nsH
 
 // removed by extract-text-webpack-plugin
 module.exports = {"test":"src-css-test__test--1nsHh"};
+
+/***/ }),
+/* 3 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+module.exports = {"comp":"src-scss-test__comp--G82bA","whatever":"src-scss-test__whatever--3kjW6"};
 
 /***/ })
 /******/ ]);
