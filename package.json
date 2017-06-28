@@ -1,6 +1,6 @@
 {
   "name": "cssmodules-plus-sass",
-  "description": "Testcase setup for CSS Modules + Sass",
+  "description": "Test case setup for CSS Modules + Sass",
   "version": "0.0.0",
   "main": "index.js",
   "author": "Rhys Burnie",
@@ -13,15 +13,17 @@
     "css-loader": "^0.28.4",
     "extract-text-webpack-plugin": "^2.1.2",
     "node-sass": "^4.5.3",
+    "plumber-sass": "^0.7.7",
     "postcss-loader": "^2.0.6",
+    "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
     "webpack": "^3.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rhysburnie/cssmodules-plus-sass.git"
+  },
   "scripts": {
     "build": "webpack"
-  },
-  "dependencies": {
-    "plumber-sass": "^0.7.7",
-    "sass-loader": "^6.0.6"
   }
 }
