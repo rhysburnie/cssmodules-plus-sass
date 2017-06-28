@@ -9,4 +9,7 @@ body {
 
 .src-css-main__test-2--3OkU2 {
   background: magenta;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }

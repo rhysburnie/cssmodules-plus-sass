@@ -6,4 +6,5 @@ body {
 .test-2 {
   composes: test from './test.css';
   background: magenta;
+  display: flex;
 }
