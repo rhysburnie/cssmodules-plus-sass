@@ -2467,6 +2467,10 @@ pkg-dir@^2.0.0:
   dependencies:
     find-up "^2.1.0"
 
+plumber-sass@^0.7.7:
+  version "0.7.7"
+  resolved "https://registry.yarnpkg.com/plumber-sass/-/plumber-sass-0.7.7.tgz#e2b0bcae8b55704694e2533d43686b1c1ad49c04"
+
 postcss-calc@^5.2.0:
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/postcss-calc/-/postcss-calc-5.3.1.tgz#77bae7ca928ad85716e2fda42f261bf7c1d65b5e"

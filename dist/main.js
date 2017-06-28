@@ -80,6 +80,8 @@ var _test3 = __webpack_require__(3);
 
 var _test4 = _interopRequireDefault(_test3);
 
+__webpack_require__(4);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
@@ -87,7 +89,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
-module.exports = {"test-2":"src-css-main__test-2--3OkU2 src-css-test__test--1nsHh","whatever-2":"src-css-main__whatever-2---MFTH src-scss-test__whatever--3kjW6"};
+module.exports = {"test-2":"src-css-main__test-2--3OkU2 src-css-test__test--1nsHh","whatever-2":"src-css-main__whatever-2---MFTH src-scss-test__whatever--3kjW6","test-p":"src-css-main__test-p--L0e3V src-scss-typo__p--2PSC9"};
 
 /***/ }),
 /* 2 */
@@ -102,6 +104,12 @@ module.exports = {"test":"src-css-test__test--1nsHh"};
 
 // removed by extract-text-webpack-plugin
 module.exports = {"comp":"src-scss-test__comp--G82bA","whatever":"src-scss-test__whatever--3kjW6"};
+
+/***/ }),
+/* 4 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
 
 /***/ })
 /******/ ]);

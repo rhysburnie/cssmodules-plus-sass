@@ -1,0 +1,16 @@
+@import '~plumber-sass';
+
+@include plumber-set-defaults(
+    $grid-height: 1rem,
+    $baseline: 0.158203,
+    $font-size: 1.75,
+    $line-height: 3,
+    $leading-top: 1,
+    $leading-bottom: 2
+);
+
+p,
+.p {
+  @include plumber();
+  color: lime;
+}

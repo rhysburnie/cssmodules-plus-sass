@@ -18,6 +18,15 @@
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1; }
+p,
+.src-scss-typo__p--2PSC9 {
+  font-size: 1.75rem;
+  line-height: 3rem;
+  margin-top: 0rem;
+  padding-top: 0.90186rem;
+  padding-bottom: 0.09814rem;
+  margin-bottom: 2rem;
+  color: lime; }
 body {
   background: #111;
   color: #fafafa;
@@ -35,3 +44,9 @@ body {
   -webkit-box-shadow: 0 0 0 black;
           box-shadow: 0 0 0 black;
 }
+
+.src-css-main__test-p--L0e3V {
+}
+.src-css-test-export-to-sass__from-css--3aNHv {
+  color: green; }
+
