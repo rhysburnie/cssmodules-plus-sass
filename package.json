@@ -1,5 +1,6 @@
 {
   "name": "cssmodules-plus-sass",
+  "description": "Testcase setup for CSS Modules + Sass",
   "version": "0.0.0",
   "main": "index.js",
   "author": "Rhys Burnie",
