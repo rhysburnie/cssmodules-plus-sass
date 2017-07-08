@@ -1,6 +1,6 @@
 {
-  "name": "cssmodules-plus-sass",
-  "description": "Test case setup for CSS Modules + Sass",
+  "name": "my-simple-starter-2017",
+  "description": "Simple webpack setup",
   "version": "0.0.0",
   "main": "index.js",
   "author": "Rhys Burnie",

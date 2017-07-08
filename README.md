@@ -1,4 +1,6 @@
-# CSS Modules + Sass
+# My Simple Starter 2017
+
+## CSS Modules + Sass
 
 > This test case is to enable to usage of Sass with css modules.
 
